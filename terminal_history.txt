@@ -1,0 +1,50 @@
+  456  git pull
+  457  git status
+  458  git add --all
+  459  git commit --m"Finished the final notebook"
+  460  git commit -m"Finished the final notebook"
+  461  git push
+  462  git status
+  463  git add --all
+  464  git commit -m"Edited the README and made some minor changes to the main notebook.
+  465  git commit -m"Edited the README and made some minor changes to the main notebook"
+  466  git push
+  467  git pull
+  468  git push
+  469  git status
+  470  git add --all
+  471  git commit -m"Added powerpoint presentation"
+  472  git push
+  473  git add
+  474  git status
+  475  git add --all
+  476  git commit -m"changed one of the visualizations"
+  477  git push
+  478  conda activate dev
+  479  jupyter lab ContentsManager.allow_hidden=True
+  480  jupyter lab --ContentsManager.allow_hidden=True
+  481  conda deactivate
+  482  cd onedrive/boot_camp/challenges/module_10_challenge
+  483  git clone git@github.com:lydiaciummo/crypto-clustering.git
+  484  git status
+  485  cd crypto-clustering
+  486  git status
+  487  git add --all
+  488  git commit -m"Added the starter code to the repository"
+  489  git push
+  490  git status
+  491  git add --all
+  492  git commit -m"Moved the starter code to the main directory"
+  493  git push
+  494  git status
+  495  git add --all
+  496  git commit -m"Wrote the code for the notebook"
+  497  git push
+  498  conda activate dev
+  499  jupyter lab
+  500  conda deactivate
+  501  cd onedrive/boot_camp/challenges/module_10_challenge
+  502  cd crypto-clustering
+  503  git status
+  504  git add --all
+  505  history 50 > terminal_history.txt
